@@ -1,15 +1,9 @@
 {
-  "peter":{
-    "capeUrl":"https://i.imgur.com/WUbP8Ee.png?supportsElytra=1",
-    "users":[
-      "Rextiano",
-      "SirOMGitsYOU"
-    ]
-  },
   "donator":{
     "capeUrl":"https://i.imgur.com/NMgNOi7.png",
     "users":[
       "user"
     ]
   }
+  "SirOMGitsYOU":"https://i.imgur.com/WUbP8Ee.png"
 }
