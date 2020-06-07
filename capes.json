@@ -1,9 +1,16 @@
 {
-  "donator":{
+  "staff":{
+    "capeUrl":"https://i.imgur.com/WypBAOg.png?supportsElytra=1",
+    "users":[
+      "ItsPJ"
+    ]
+  },
+  "patreon":{
     "capeUrl":"https://i.imgur.com/NMgNOi7.png",
     "users":[
-      "user"
+      "spinflood",
+      "Roweiss",
     ]
-  }
-  "SirOMGitsYOU":"https://i.imgur.com/WUbP8Ee.png"
+  },
+  "SirOMGitsYOU":"https://i.imgur.com/WUbP8Ee.png?supportsElytra=1"
 }
