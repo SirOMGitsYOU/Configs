@@ -1,19 +1,15 @@
 {
-  "staff":{
-    "capeUrl":"https://i.imgur.com/WypBAOg.png?supportsElytra=1",
+  "peter":{
+    "capeUrl":"https://i.imgur.com/WUbP8Ee.png?supportsElytra=1",
     "users":[
       "Rextiano",
       "SirOMGitsYOU"
     ]
   },
-  "patreon":{
+  "donator":{
     "capeUrl":"https://i.imgur.com/NMgNOi7.png",
     "users":[
-      "spinflood",
-      "Roweiss",
-      "Rockshatter",
-      "XxIngeXX",
-      "Daz3k"
+      "user"
     ]
   }
 }
