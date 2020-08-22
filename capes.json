@@ -1,16 +1,10 @@
 {
-  "staff":{
+  "packdev":{
     "capeUrl":"https://i.imgur.com/WUbP8Ee.png?supportsElytra=1",
     "users":[
-      "tapter"
+      "SirOMGitsYOU"
     ]
   },
-  "patreon":{
-    "capeUrl":"https://i.imgur.com/NMgNOi7.png",
-    "users":[
-      "spinflood"
-    ]
-  },
-  "SirOMGitsYOU":"https://i.imgur.com/WUbP8Ee.png?supportsElytra=1",
+  "11a":"https://i.imgur.com/WUbP8Ee.png?supportsElytra=1",
   "ItsPJ":"http://ufharmony.com/capes/DerpCape.png"
 }
