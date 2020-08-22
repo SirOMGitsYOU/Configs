@@ -1,10 +1,14 @@
 {
-  "packdev":{
-    "capeUrl":"https://i.imgur.com/WUbP8Ee.png?supportsElytra=1",
-    "users":[
-      "SirOMGitsYOU"
-    ]
-  },
-  "11a":"https://i.imgur.com/WUbP8Ee.png?supportsElytra=1",
-  "ItsPJ":"http://ufharmony.com/capes/DerpCape.png"
+   "packdev":{
+      "capeUrl":"https://i.imgur.com/WUbP8Ee.png",
+      "users":[
+         "1484aaa5-7900-44d1-a6df-17b62ca35ce0"
+      ]
+   },
+   "friend":{
+      "capeUrl":"https://i.imgur.com/WUbP8Ee.png",
+      "users":[
+         "c464cc4f-bc63-48f1-84d4-bee8ee4c29dd"
+      ]
+   }
 }
