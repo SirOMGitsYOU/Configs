@@ -11,15 +11,19 @@
          "c464cc4f-bc63-48f1-84d4-bee8ee4c29dd",
          "756d1a64-38a8-49d4-b1bf-4a5eba7e90cf",
          "96bc7a1a-40fe-44cd-966a-4ec60249706e",
-         "bb3a9d0a-f946-49fc-aa02-46f3978078a3", 
-         "4a477683-30fd-4797-8d72-1cfa004d8e08",
          "1425a5c5-f918-47be-97ef-f4c6aec4baf3",
          "76d9b88b-2025-4e64-92d8-9f8cb6b9be11",
-         "632b6bb0-1e7f-4857-a70a-d903ef5725cd",
-         "d26b58ba-f318-47d7-82e7-47cc9fb4d1b8",
-         "863a2dbf-8ef2-4c26-9bf5-5193742da9dc",
          "66d8cc47-0cc9-445d-862b-af889ee4cd5b",
-         "fc488c71-a1fb-4a29-b637-2c921c8e79dd"
+         "fc488c71-a1fb-4a29-b637-2c921c8e79dd",
+         "c6381902-5ad5-4554-8ffe-4bbf34b1cd17",
+         "991790cb-5894-40c3-b511-16e9c30f8c9d"
+      ]
+   },
+   "bees":{
+      "capeUrl":"https://vicariousnetwork.com/files/capes/beecape.png",
+      "users":[
+         "1b0a9367-897a-41da-9ff1-c5aab2879eef",
+         "ceef7527-8768-4311-87a0-7ac2491695de"
       ]
    }
 }
