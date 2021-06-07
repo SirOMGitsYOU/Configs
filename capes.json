@@ -1,12 +1,12 @@
 {
    "packdev":{
-      "capeUrl":"https://vicariousnetwork.com/files/capes/devcape.png",
+      "capeUrl":"https://raw.githubusercontent.com/SirOMGitsYOU/Configs/master/devcape.png",
       "users":[
          "1484aaa5-7900-44d1-a6df-17b62ca35ce0"
       ]
    },
    "betatesters":{
-      "capeUrl":"https://vicariousnetwork.com/files/capes/testercape.png",
+      "capeUrl":"https://raw.githubusercontent.com/SirOMGitsYOU/Configs/master/testercape.png",
       "users":[
          "c464cc4f-bc63-48f1-84d4-bee8ee4c29dd",
          "756d1a64-38a8-49d4-b1bf-4a5eba7e90cf",
@@ -20,7 +20,7 @@
       ]
    },
    "bees":{
-      "capeUrl":"https://i.imgur.com/31UgEgN.jpg",
+      "capeUrl":"https://raw.githubusercontent.com/SirOMGitsYOU/Configs/master/beecape.png",
       "users":[
          "1b0a9367-897a-41da-9ff1-c5aab2879eef",
          "ceef7527-8768-4311-87a0-7ac2491695de"
